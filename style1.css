@@ -40,15 +40,23 @@ p{
   line-height: 2;
 }
 .mountimg{
+	max-width:100%;
+	height:auto;
   height: 400px;
   position: absolute;
   right: 400px;
 }
 .cloudimg1{
+	max-width:100%;
+	height:auto;
+
   position: absolute;
   right: 300px;
 }
 .cloudimg2{
+	max-width:100%;
+	height:auto;
+
   position:absolute;
   left: 400px;
   top: 250px;
